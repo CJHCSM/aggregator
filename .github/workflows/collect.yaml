@@ -72,7 +72,6 @@ jobs:
 
       - name: 提交更改
         run: |
-          git pull origin main
           git add ./data/*
           git commit -m "$(date '+%Y-%m-%d %H:%M:%S') sub_merge_node"
       - name: 推送更改
