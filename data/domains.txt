@@ -2269,3 +2269,5 @@ https://a.txtx.store/
 https://www.txtx.store/
 https://b.txtx.store/
 https://user.hyproxy.cc/
+https://shimo.buzz/
+http://cloud.webcitys.net/
