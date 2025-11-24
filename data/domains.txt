@@ -2994,3 +2994,5 @@ https://shop.netflarepro.com/
 https://netflarepro.com/
 http://me.wakao.xyz/
 https://ss.yaning.xyz/
+https://scpxyapi.rainflowtb.com/
+https://api.rainflowtb.com/
